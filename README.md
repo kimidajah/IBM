@@ -44,6 +44,8 @@ Proyek ini bertujuan untuk menganalisis sentimen (positif atau negatif) dari ula
 
 * Pastikan untuk mengganti your_token_here dengan token Replicate API Anda yang sebenarnya.
 
-## Link Presentasi
+## Link Collab 
 
-[Sertakan link presentasi Anda di sini]
+* https://colab.research.google.com/drive/1bRhZcuiL7IyXCEA49PSuXcklSXB7oHGV?usp=sharing
+
+
